@@ -1,0 +1,5 @@
+# print("Sharan Panthi")
+# print("Sharan \t Panthi")
+# print("Sharan \nPanthi")
+# print("Shar\'an Panthi")
+print('Sha"ran Panthi')
