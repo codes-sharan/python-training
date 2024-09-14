@@ -12,7 +12,7 @@
 
 num1=10 
 num2=10.5 
-name="Sharan Panthi"
+name="Suyog Panthi"
 para = '''
 hello this is multi
 line paragraph 

@@ -1,5 +1,5 @@
 # Variables in python (case sensitive, cannot start with number, keywords not allowed (eg. if), no blank spaces )
-# name = "Sharan panthi"
+# name = "Suyog panthi"
 # print(name)
 # print(f"My name is {name}")
 
